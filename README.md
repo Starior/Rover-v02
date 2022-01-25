@@ -1,7 +1,4 @@
-## Artsiom-Zemliakou-Academy-Technical-Interview
-
 # Technical interview in Syberry Academy
-
 [Improved Rover-01](https://github.com/Starior/Rover-v01) for 4 hours
 ### RU
 - Ровер может опускаться ниже уровня моря(ниже 0);
